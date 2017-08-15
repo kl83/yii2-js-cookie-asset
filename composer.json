@@ -1,0 +1,19 @@
+{
+    "name": "kl83/yii2-js-cookie-asset",
+    "description": "Yii2 js-cookie asset",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "^2.0",
+        "bower-asset/js-cookie": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksandr Solovyov",
+            "email": "solovyov.a.a.19@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "kl83\\assets\\": "" }
+    }
+}
